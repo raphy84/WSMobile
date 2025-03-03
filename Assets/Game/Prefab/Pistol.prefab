@@ -188,6 +188,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c378223a0b9d074abcca1cce3590bcf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  weaponData: {fileID: 0}
+  weaponData: {fileID: 11400000, guid: 818d6b6b5ba933c43ad1ed56f6e255b4, type: 2}
   firePoint: {fileID: 8480560844594298673}
-  remainingBullets: 0
+  remainingBullets: 6
